@@ -1,0 +1,69 @@
+{
+  "political_m": false,
+  "type": "Movie",
+  "name": "Rambo: Last Blood",
+  "url": "https://www.imdb.com/tt1206885/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTAxZWM2OTgtOTQzOC00ZTI5LTgyYjktZTRhYWM4YWQxNWI0XkEyXkFqcGdeQXVyMjMwNDgzNjc@._V1_.jpg",
+  "description": "Rambo must confront his past and unearth his ruthless combat skills to exact revenge in a final mission.",
+  "review": {
+    "author": "ernesto2048",
+    "dateCreated": "2019-09-24",
+    "inLanguage": "English",
+    "heading": "Rambo Lives!",
+    "reviewBody": "I felt compelled to write this review after reading the backlash this movie has received of being racist and unnecessarily violent. I&apos;m Mexican, I saw this movie in a cinema obviously filled with Mexicans.. no one felt offended!!!! Everyone was cheering towards the end and that final montage hit the feelings note perfectly. Rambo is a character embedded deeply in Mexican pop culture as well as in many other countries, and it hurts me to say it, but the villains you see in this movie is a reality that happens in my country, if anything I congratulate Stallone for denouncing that criminal activity. It&apos;s not a perfect movie, and it does have a different feeling than the other ones, but when Rambo finally appears you&apos;ll feel it and at his most cold blooded self he can be, the violence while gruesome, I didn&apos;t feel it unnecesary especially if you know how this Criminal Bands operate. So go to the cinema, enjoy this movie for what it is, and feel secure that south of the border we are ohh so happy to have another Rambo movie and no one is feeling offended!!",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 110223,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  },
+  "contentRating": "16",
+  "genre": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "datePublished": "2019-09-19",
+  "keywords": "vigilante,sequel,cartel,u.s. mexico border,prostitution",
+  "duration": "PT1H29M",
+  "actor": [
+    {
+      "name": "Sylvester Stallone",
+      "url": "https://www.imdb.com/name/nm0000230/"
+    },
+    {
+      "name": "Paz Vega",
+      "url": "https://www.imdb.com/name/nm0891895/"
+    },
+    {
+      "name": "Sergio Peris-Mencheta",
+      "url": "https://www.imdb.com/name/nm0673824/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Adrian Grunberg",
+      "url": "https://www.imdb.com/name/nm0344496/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Matthew Cirulnick",
+      "url": "https://www.imdb.com/name/nm1006730/"
+    },
+    {
+      "name": "Sylvester Stallone",
+      "url": "https://www.imdb.com/name/nm0000230/"
+    },
+    {
+      "name": "Dan Gordon",
+      "url": "https://www.imdb.com/name/nm0330108/"
+    }
+  ]
+}

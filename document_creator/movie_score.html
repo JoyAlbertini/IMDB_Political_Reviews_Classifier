@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Review Dashboard</title>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+<style>
+    body {
+        font-family: 'Roboto', sans-serif;
+    }
+    .container2 {
+        display: flex;
+        justify-content: space-between;
+        flex-direction: row;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+    .controls {
+        margin-bottom: 20px;
+    }
+    label {
+        margin-right: 10px;
+        display: block;
+    }
+    .range-slider {
+        margin-top: 20px;
+    }
+</style>
+</head>
+<body>
+<div class="container2">
+    <div>
+        <div class="controls">
+            <label><input type="checkbox" value="left" checked onchange="filterData()"> Left</label>
+            <label><input type="checkbox" value="right" checked onchange="filterData()"> Right</label>
+            <label><input type="checkbox" value="neutral" checked onchange="filterData()"> Neutral</label>
+            <label><input type="checkbox" value="left 1" onchange="filterData()"> Left 1</label>
+            <label><input type="checkbox" value="left 10" onchange="filterData()"> Left 10</label>
+            <label><input type="checkbox" value="right 1" onchange="filterData()"> Right 1</label>
+            <label><input type="checkbox" value="right 10" onchange="filterData()"> Right 10</label>
+        </div>
+        <div class="range-slider">
+            <input type="range" min="0" max="1" step="0.01" value="0.5" id="confidenceRange" oninput="updateConfidenceValue(); filterData();">
+            <span id="confidenceValue">0.5</span>
+        </div>
+    </div>
+    <div>
+        <h1>Reviews Rating</h1>
+        <h2 id="meanRatingDisplay">Mean Rating: -</h2>
+        <h2 id="documentsConsideredDisplay">Documents Considered: -</h2>
+    </div>
+    <div>
+        <h1>IMDb</h1>
+        <h2 id="imdbRatingDisplay">IMDb Rating: ${imdb_score}</h2>
+        <h2 id="imdbDocumentsConsideredDisplay">Documents Considered: ${imdb_doc_count}</h2>
+    </div>
+    <div>
+        <h1>Aggregate Score</h1>
+        <h2 id="weightedAverageDisplay">Weighted Average: -</h2>
+        <h2 id="simpleAverageDisplay">Average: -</h2>
+    </div>
+</div>
+
+<script>
+const data = ${data};
+const imdb_score = parseFloat(${imdb_score});
+const imdb_doc_count = parseInt(${imdb_doc_count});
+
+
+function updateConfidenceValue() {
+    const slider = document.getElementById('confidenceRange');
+    document.getElementById('confidenceValue').textContent = slider.value;
+}
+
+function filterData() {
+    const selectedPolitics = Array.from(document.querySelectorAll('input[type="checkbox"]:checked')).map(el => el.value);
+    const minConfidence = parseFloat(document.getElementById('confidenceRange').value);
+    const filteredData = data.filter(item =>
+        selectedPolitics.includes(item.politics) && item.confidence >= minConfidence
+    );
+
+    updateDisplays(filteredData);
+}
+
+function updateDisplays(filteredData) {
+    if (filteredData.length > 0) {
+        const meanRating = filteredData.reduce((acc, cur) => acc + cur.rating, 0) / filteredData.length;
+        document.getElementById('meanRatingDisplay').textContent = `Mean Rating: ${meanRating.toFixed(2)}`;
+        document.getElementById('documentsConsideredDisplay').textContent = `Documents Considered: ${filteredData.length}`;
+
+        updateAverageDisplays(filteredData, meanRating);
+    } else {
+        document.getElementById('meanRatingDisplay').textContent = 'Mean Rating: -';
+        document.getElementById('documentsConsideredDisplay').textContent = 'Documents Considered: 0';
+        document.getElementById('weightedAverageDisplay').textContent = 'Weighted Average: -';
+        document.getElementById('simpleAverageDisplay').textContent = 'Average: -';
+    }
+}
+
+function updateAverageDisplays(filteredData, meanRating) {
+    const reviewDocsCount = filteredData.length;
+    const totalDocs = reviewDocsCount + imdb_doc_count;
+    const weightedAverage = (meanRating * reviewDocsCount + imdb_score * imdb_doc_count) / totalDocs;
+    const simpleAverage = (meanRating + imdb_score) / 2;
+
+    document.getElementById('weightedAverageDisplay').textContent = `Weighted Average: ${weightedAverage.toFixed(2)}`;
+    document.getElementById('simpleAverageDisplay').textContent = `Average: ${simpleAverage.toFixed(2)}`;
+}
+filterData();
+</script>
+</body>
+</html>

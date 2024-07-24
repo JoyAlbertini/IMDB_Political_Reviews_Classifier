@@ -1,0 +1,65 @@
+{
+  "political_m": false,
+  "type": "Movie",
+  "name": "Jaws: The Revenge",
+  "url": "https://www.imdb.com/tt0093300/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2UxMWVlNmMtYzM0Zi00YTQzLTk2N2ItM2Y1NmNmMDk4MDFjXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "darthquincunx",
+    "dateCreated": "2004-06-29",
+    "inLanguage": "English",
+    "heading": "Jaw dropping",
+    "reviewBody": null,
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 3
+    }
+  },
+  "rating": {
+    "ratingCount": 49796,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 3
+  },
+  "contentRating": "PG-13",
+  "genre": [
+    "Adventure",
+    "Horror",
+    "Thriller"
+  ],
+  "datePublished": "1987-07-17",
+  "keywords": "shark,shark attack,1980s,killer shark,animal monster",
+  "duration": "PT1H29M",
+  "actor": [
+    {
+      "name": "Lorraine Gary",
+      "url": "https://www.imdb.com/name/nm0308882/"
+    },
+    {
+      "name": "Lance Guest",
+      "url": "https://www.imdb.com/name/nm0346411/"
+    },
+    {
+      "name": "Mario Van Peebles",
+      "url": "https://www.imdb.com/name/nm0005522/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Joseph Sargent",
+      "url": "https://www.imdb.com/name/nm0765121/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Peter Benchley",
+      "url": "https://www.imdb.com/name/nm0001940/"
+    },
+    {
+      "name": "Michael De Guzman",
+      "url": "https://www.imdb.com/name/nm0208775/"
+    }
+  ]
+}

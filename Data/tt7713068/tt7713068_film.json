@@ -1,0 +1,69 @@
+{
+  "political_m": true,
+  "type": "Movie",
+  "name": "Birds of Prey and the Fantabulous Emancipation of One Harley Quinn",
+  "url": "https://www.imdb.com/tt7713068/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzQ3NTQxMjItODBjYi00YzUzLWE1NzQtZTBlY2Y2NjZlNzkyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+  "description": "After splitting with the Joker, Harley Quinn joins superheroines Black Canary, Huntress, and Renee Montoya to save a young girl from an evil crime lord.",
+  "review": {
+    "author": "Ndetzzz",
+    "dateCreated": "2020-02-06",
+    "inLanguage": "English",
+    "heading": "Boring and forgettable",
+    "reviewBody": "While Margot Robbie is a good Harley Quinn, the character was not given enough arc. The plot was predictable and mainstream, especially due to lack of a strong antagonist. The main antagonist, played by Ewan McGregor, was not developed and hence did not add significant value to the plot story. Although some of the fight scenes were entertaining, the film as a whole was truly forgettable.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 266031,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.1
+  },
+  "contentRating": "14",
+  "genre": [
+    "Action",
+    "Comedy",
+    "Crime"
+  ],
+  "datePublished": "2020-02-07",
+  "keywords": "harley quinn character,female protagonist,swallowing a diamond,diamond theft,spin off",
+  "duration": "PT1H49M",
+  "actor": [
+    {
+      "name": "Margot Robbie",
+      "url": "https://www.imdb.com/name/nm3053338/"
+    },
+    {
+      "name": "Rosie Perez",
+      "url": "https://www.imdb.com/name/nm0001609/"
+    },
+    {
+      "name": "Mary Elizabeth Winstead",
+      "url": "https://www.imdb.com/name/nm0935541/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Cathy Yan",
+      "url": "https://www.imdb.com/name/nm4014166/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Christina Hodson",
+      "url": "https://www.imdb.com/name/nm5429637/"
+    },
+    {
+      "name": "Paul Dini",
+      "url": "https://www.imdb.com/name/nm0227704/"
+    },
+    {
+      "name": "Bruce Timm",
+      "url": "https://www.imdb.com/name/nm0863622/"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "political_m": false,
+  "type": "Movie",
+  "name": "Furiosa: A Mad Max Saga",
+  "url": "https://www.imdb.com/tt12037194/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmYzMWVjNmQtNjJjNy00M2Y4LTkzZjQtZWQ5NmYzMjRjMDIzXkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "apokourt",
+    "dateCreated": "2024-05-30",
+    "inLanguage": "English",
+    "heading": "Quite good",
+    "reviewBody": "I don&apos;t really have any complaints about the movie, I really enjoyed it evenly throughout. Decent plot, good acting and a great consistency in quality, which I really appreciated. It&apos;s not perfect by any means, but it is worth to give it a watch in my opinion. For a movie that lasts 2 and a half hours I&apos;ve got to say I never actually got bored, which is another good thing this movie has. Although I would say that there isn&apos;t anything THAT notable in the movie that makes it stand out, hence the 8 stars. Other than that it is pretty great, and nothing else to really point out. I would recommend it if you have the time. It&apos;s a pretty nice, action-packed film that retains its quality evenly throughout.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 8
+    }
+  },
+  "rating": {
+    "ratingCount": 61678,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.9
+  },
+  "contentRating": "14",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "datePublished": "2024-05-22",
+  "keywords": "prequel,post apocalypse,desert,spin off,epic action",
+  "duration": "PT2H28M",
+  "actor": [
+    {
+      "name": "Anya Taylor-Joy",
+      "url": "https://www.imdb.com/name/nm5896355/"
+    },
+    {
+      "name": "Chris Hemsworth",
+      "url": "https://www.imdb.com/name/nm1165110/"
+    },
+    {
+      "name": "Tom Burke",
+      "url": "https://www.imdb.com/name/nm0121895/"
+    }
+  ],
+  "director": [
+    {
+      "name": "George Miller",
+      "url": "https://www.imdb.com/name/nm0004306/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "George Miller",
+      "url": "https://www.imdb.com/name/nm0004306/"
+    },
+    {
+      "name": "Nick Lathouris",
+      "url": "https://www.imdb.com/name/nm0490147/"
+    }
+  ]
+}

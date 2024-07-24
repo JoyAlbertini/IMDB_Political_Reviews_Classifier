@@ -1,0 +1,68 @@
+{
+  "political_m": false,
+  "type": "Movie",
+  "name": "Hulk",
+  "url": "https://www.imdb.com/tt0286716/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzQwZDg1MGEtN2E5My00ZDJlLWI4MzItM2U2MjJhYzlkNmEzXkEyXkFqcGdeQXVyNDAxNjkxNjQ@._V1_.jpg",
+  "description": "Bruce Banner, a genetics researcher with a tragic past, suffers an accident that causes him to transform into a raging green monster when he gets angry.",
+  "review": {
+    "author": "SnoopyStyle",
+    "dateCreated": "2014-04-26",
+    "inLanguage": "English",
+    "heading": "Interesting attempt",
+    "reviewBody": "Bruce Banner (Eric Bana) is a brilliant scientist working with his girlfriend Betty Ross (Jennifer Connelly) on nanomeds and gamma radiation to cure physical ailments. A lab accident causes high exposure of gamma radiation and releases the hulk within him. His father David (Nick Nolte) had experimented on himself and transferred some changes within Bruce. When Bruce was 4, an incident which he can&apos;t remember caused Betty&apos;s father Gen Ross (Sam Elliott) to lock up David Banner. Now David is back just in time to see the change in Bruce release by the gamma radiation.\n\nDirector Ang Lee definitely put his own mark on this comic book movie. It&apos;s probably not what the fans or Marvel was looking for. This is a much more a Greek tragedy than a popcorn summer action flick. While it&apos;s the not the best choice, it does make it an uniquely interesting comic book movie.\n\nThe acting from Eric Bana is a little too bland. He&apos;s not really a favorite of mine. On the other hand, Jennifer Connelly is superb. She is the heart and soul of this movie. Nick Nolte shows that he can play crazy well. He definitely goes overboard but I sorta like it. Sam Elliott tries a little too hard. He should be able to play this part without trying. He doesn&apos;t need to yell and scream.\n\nThen there is all the split screen and other visual tricks. Ang Lee is pulling inspiration from the comic books. However he may be too literal and more importantly overused this style. Luckily, it does make it more visually interesting when the story moves at a slower pace. There is something outside the normal comic book movie going on here. It is fascinating. It doesn&apos;t work that well. But it&apos;s good enough for me to recommend. It&apos;s worthwhile to check out at least once.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 6
+    }
+  },
+  "rating": {
+    "ratingCount": 279286,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.6
+  },
+  "contentRating": "14",
+  "genre": [
+    "Action",
+    "Sci-Fi"
+  ],
+  "datePublished": "2003-06-20",
+  "keywords": "monster,scientist,muscle growth,genetic,radiation",
+  "duration": "PT2H18M",
+  "actor": [
+    {
+      "name": "Eric Bana",
+      "url": "https://www.imdb.com/name/nm0051509/"
+    },
+    {
+      "name": "Jennifer Connelly",
+      "url": "https://www.imdb.com/name/nm0000124/"
+    },
+    {
+      "name": "Sam Elliott",
+      "url": "https://www.imdb.com/name/nm0000385/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Ang Lee",
+      "url": "https://www.imdb.com/name/nm0000487/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Stan Lee",
+      "url": "https://www.imdb.com/name/nm0498278/"
+    },
+    {
+      "name": "Jack Kirby",
+      "url": "https://www.imdb.com/name/nm0456158/"
+    },
+    {
+      "name": "James Schamus",
+      "url": "https://www.imdb.com/name/nm0770005/"
+    }
+  ]
+}

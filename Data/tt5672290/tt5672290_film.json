@@ -1,0 +1,67 @@
+{
+  "political_m": false,
+  "type": "Movie",
+  "name": "The First Omen",
+  "url": "https://www.imdb.com/tt5672290/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzI2YmYwZWYtNzgzNi00ODU2LWE1NWMtZmY4NTJjYzIyNTIxXkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_.jpg",
+  "description": "A young American woman is sent to Rome to begin a life of service to the church, but encounters a darkness that causes her to question her faith and uncovers a terrifying conspiracy that hopes to bring about the birth of evil inca...",
+  "review": {
+    "author": "andrewchristianjr",
+    "dateCreated": "2024-04-04",
+    "inLanguage": "English",
+    "heading": "ONE OF THE BEST HORROR PREQUELS.",
+    "reviewBody": "Easily one of the best horror prequels. The original Omen is an all time classic, and this is a great follow up. The film revels in mashing up genres: body horror and gothic church horror. Well paced with a good cinematic moment.\n\nSynopsis: When a young American woman is sent to Rome to begin a life of service to the church, she encounters a darkness that causes her to question her own faith and uncovers a terrifying conspiracy that hopes to bring about the birth of evil incarnate.\n\nWhen a young American woman is sent to Rome to begin a life of service to the church, she encounters a darkness that causes her to question her own faith and uncovers a terrifying conspiracy that hopes to bring about the birth of evil incarnate.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 32363,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 6.5
+  },
+  "contentRating": "16",
+  "genre": [
+    "Horror"
+  ],
+  "datePublished": "2024-04-05",
+  "keywords": "antichrist,nun,rome italy,satanism,orphanage",
+  "duration": "PT1H59M",
+  "actor": [
+    {
+      "name": "Nell Tiger Free",
+      "url": "https://www.imdb.com/name/nm4836100/"
+    },
+    {
+      "name": "Ralph Ineson",
+      "url": "https://www.imdb.com/name/nm0408591/"
+    },
+    {
+      "name": "Sonia Braga",
+      "url": "https://www.imdb.com/name/nm0000968/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Arkasha Stevenson",
+      "url": "https://www.imdb.com/name/nm6674331/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Tim Smith",
+      "url": "https://www.imdb.com/name/nm5654281/"
+    },
+    {
+      "name": "Arkasha Stevenson",
+      "url": "https://www.imdb.com/name/nm6674331/"
+    },
+    {
+      "name": "Keith Thomas",
+      "url": "https://www.imdb.com/name/nm8928699/"
+    }
+  ]
+}

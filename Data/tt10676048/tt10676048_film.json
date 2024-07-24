@@ -1,0 +1,69 @@
+{
+  "political_m": false,
+  "type": "Movie",
+  "name": "The Marvels",
+  "url": "https://www.imdb.com/tt10676048/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2U2YWU5NWMtOGI2Ni00MGMwLWFkNjItMjgyZWMxNjllNTMzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+  "description": "Carol Danvers gets her powers entangled with those of Kamala Khan and Monica Rambeau, forcing them to work together to save the universe.",
+  "review": {
+    "author": "tibby_23",
+    "dateCreated": "2024-01-17",
+    "inLanguage": "English",
+    "heading": "Who hires these writers?",
+    "reviewBody": "By far the worst Marvel movie so far, I am extremely disappointed. After the mess that Thor 4 was, I was hoping that Marvel learned its lesson, but it seems not. I am honestly happy this movie did bad at the box office, that&apos;s what you get for ruining such a great character (I loved Cpt. Marvel from the comics).\n\nWhat makes it bad: \n* Action moves way too fast from one scene to another\n* No character improvement or growth by the end of the movie\n* Things just happen with no storytelling\n* Not serious enough, too childish for my taste\n* Too many goofy moments (singing, really? We&apos;ve come this low, Marvel?)\n* End scenes that try to set the context for next movies seem forced and unnecessary\n\n\nI also found two good things eventually: \n* I liked the villain and her story, sympathized with her a bit\n* At least the movie was not long.\n\n\nThese writers should never be hired again.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 4
+    }
+  },
+  "rating": {
+    "ratingCount": 128544,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 5.5
+  },
+  "contentRating": "12",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "datePublished": "2023-11-10",
+  "keywords": "sequel,villainess,kitten,heroine,shared universe",
+  "duration": "PT1H45M",
+  "actor": [
+    {
+      "name": "Brie Larson",
+      "url": "https://www.imdb.com/name/nm0488953/"
+    },
+    {
+      "name": "Teyonah Parris",
+      "url": "https://www.imdb.com/name/nm3500582/"
+    },
+    {
+      "name": "Iman Vellani",
+      "url": "https://www.imdb.com/name/nm11940123/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Nia DaCosta",
+      "url": "https://www.imdb.com/name/nm4804442/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Nia DaCosta",
+      "url": "https://www.imdb.com/name/nm4804442/"
+    },
+    {
+      "name": "Megan McDonnell",
+      "url": "https://www.imdb.com/name/nm6876585/"
+    },
+    {
+      "name": "Elissa Karasik",
+      "url": "https://www.imdb.com/name/nm6418980/"
+    }
+  ]
+}

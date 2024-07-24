@@ -1,0 +1,61 @@
+{
+  "political_m": true,
+  "type": "Movie",
+  "name": "Pride",
+  "url": "https://www.imdb.com/tt3169706/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU2OTcyOTE3MF5BMl5BanBnXkFtZTgwNTg5Mjc1MjE@._V1_.jpg",
+  "description": "U.K. gay activists work to help miners during their lengthy strike of the National Union of Mineworkers in the summer of 1984.",
+  "review": {
+    "author": "n-j-terry-250-33041",
+    "dateCreated": "2014-09-09",
+    "inLanguage": "English",
+    "heading": "Superb... but then I&apos;m biased.",
+    "reviewBody": "A fabulously rich movie with a superb mix of talent relating the victories of human relationships over and above the overwhelming power of political ideology in partnership with business.\n\nBill Nighy plays a beautifully understated, quiet and thoughtful role in contrast to the ebullient Imelda Staunton, matriarchal doyenne of the small Welsh mining town that is the focus for solidarity expressed by LGSM. Paddy Considine as Dai is the somewhat unwitting emissary who meets with the group in London and speaks powerfully and clearly to the community there and to the rather more conservative community in his home town as to the nature of solidarity. Much humour is placed in the two cultures coming together and throughout there are themes of coming out, for both communities; the subtle and insidious nature of discrimination, the hegemonic control it exerts when backed by powerful media presentation, the opportunism of the bitter and resentful, and the damage that is wrought upon families and communities when work is alienated from the individuals identity. Jessie Cave, Ben Schnetzer, Sophie Evans, George Mackay and Freddie Fox all perform keenly and will have done their rising stars no harm here. Not sure how this film will travel internationally, a bit parochial, but then I thought the same about Billy Elliott and that seems to have done OK.\n\nCulturally the film is a trip down memory lane, the music, the politics, the clothing and decor all take me back to 1984, the year of my eighteenth birthday, when my father was one of those striking miners, my mother and the other mothers ran the kitchen in the local church hall. Hence my bias, there is much in this film that is intensely personal.but even if this were not the case, I would still recommend the artistry of this movie and it&apos;s passion to anyone.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 61933,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.8
+  },
+  "contentRating": "10",
+  "genre": [
+    "Biography",
+    "Comedy",
+    "Drama"
+  ],
+  "datePublished": "2014-09-12",
+  "keywords": "miner,national union of mineworkers,gay activist,gay pride,gay acceptance",
+  "duration": "PT1H59M",
+  "actor": [
+    {
+      "name": "Bill Nighy",
+      "url": "https://www.imdb.com/name/nm0631490/"
+    },
+    {
+      "name": "Imelda Staunton",
+      "url": "https://www.imdb.com/name/nm0001767/"
+    },
+    {
+      "name": "Dominic West",
+      "url": "https://www.imdb.com/name/nm0922035/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Matthew Warchus",
+      "url": "https://www.imdb.com/name/nm0911334/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Stephen Beresford",
+      "url": "https://www.imdb.com/name/nm0073571/"
+    }
+  ]
+}

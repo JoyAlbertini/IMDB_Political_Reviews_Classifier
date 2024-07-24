@@ -1,0 +1,56 @@
+{
+  "political_m": true,
+  "type": "Movie",
+  "name": "The Punk Singer",
+  "url": "https://www.imdb.com/tt1785612/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjEzNzQxNzUxNF5BMl5BanBnXkFtZTgwMDY5MTY1MDE@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "moonspinner55",
+    "dateCreated": "2015-01-12",
+    "inLanguage": "English",
+    "heading": "Much-needed documentary...not only about Kathleen Hanna, but of the indie-punk music scene in the early &apos;90s",
+    "reviewBody": "Excellent documentary from director Sini Anderson on Bikini Kill/Le Tigre front woman Kathleen Hanna, who dropped out of the music biz in 2005 after contracting late-stage Lyme disease (but who kept her disappearance mysterious, hardly disclosing her illness to anyone). A rage-filled college girl from Olympia, Washington, Hanna was a rabid feminist with a troubled childhood whose jagged fanzine art and spoken word rants eclipsed into musical genius with her first band, Bikini Kill. Although not for the faint-of-heart, Bikini Kill (three females, one male) were instrumental in leading the Riot Grrrl movement of the early 1990s. Testimonials from Hanna&apos;s peers (including members of Bratmobile and Sleater-Kinney, Kim Gordon from Sonic Youth and Joan Jett, who produced Bikini Kill&apos;s most proficient EP) help fill in some of the personality gaps, yet when Anderson just allows Hanna to speak--and when the musician opens up, she&apos;s quite candid--the results are fascinating, most especially for fans. Also interesting: the potentially-explosive paradox of a young, hardcore feminist who finds true love (and eventually marriage) with a male kindred spirit, Adam Horovitz of the Beastie Boys. *** from ****",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 7
+    }
+  },
+  "rating": {
+    "ratingCount": 3097,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.4
+  },
+  "contentRating": "Not Rated",
+  "genre": [
+    "Documentary",
+    "Biography",
+    "Music"
+  ],
+  "datePublished": "2014-05-23",
+  "keywords": "riot grrl,lyme disease,feminism,music documentary,biographical documentary",
+  "duration": "PT1H21M",
+  "actor": [
+    {
+      "name": "Kathleen Hanna",
+      "url": "https://www.imdb.com/name/nm0360213/"
+    },
+    {
+      "name": "Carrie Brownstein",
+      "url": "https://www.imdb.com/name/nm1247855/"
+    },
+    {
+      "name": "Kim Gordon",
+      "url": "https://www.imdb.com/name/nm0330371/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Sini Anderson",
+      "url": "https://www.imdb.com/name/nm2481948/"
+    }
+  ],
+  "creator": []
+}

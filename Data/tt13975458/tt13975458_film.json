@@ -1,0 +1,65 @@
+{
+  "political_m": false,
+  "type": "Movie",
+  "name": "Cube: Ichido haittara, saigo",
+  "url": "https://www.imdb.com/tt13975458/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTA5ZWYwMDQtNWVjYi00YjkzLTljOGMtOTdmZmMyMjhlYmE4XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg",
+  "description": "In this remake, without remembering how they got there, several strangers awaken in a prison of cubic cells, some of them booby-trapped. The prisoners must use their combined skills if they are to escape.",
+  "review": {
+    "author": "PatParnell",
+    "dateCreated": "2021-12-03",
+    "inLanguage": "English",
+    "heading": "Totally unnecessary remake",
+    "reviewBody": "Well, I could write a long review about it, but the review title I&apos;ve put up there says it all. So how I could reach 150 characters when there is really nothing else to say about that...",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 1
+    }
+  },
+  "rating": {
+    "ratingCount": 2417,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 4.5
+  },
+  "contentRating": null,
+  "genre": [
+    "Horror",
+    "Mystery",
+    "Sci-Fi"
+  ],
+  "datePublished": "2021-10-22",
+  "keywords": "japanese woman,confinement,remake,remake of canadian film,stranger",
+  "duration": "PT1H48M",
+  "actor": [
+    {
+      "name": "Tokio Emoto",
+      "url": "https://www.imdb.com/name/nm2320634/"
+    },
+    {
+      "name": "Masaki Okada",
+      "url": "https://www.imdb.com/name/nm2347861/"
+    },
+    {
+      "name": "Takumi Sait\u00f4",
+      "url": "https://www.imdb.com/name/nm1102191/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Yasuhiko Shimizu",
+      "url": "https://www.imdb.com/name/nm10821745/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Vincenzo Natali",
+      "url": "https://www.imdb.com/name/nm0622112/"
+    },
+    {
+      "name": "K\u00f4ji Tokuo",
+      "url": "https://www.imdb.com/name/nm3829252/"
+    }
+  ]
+}

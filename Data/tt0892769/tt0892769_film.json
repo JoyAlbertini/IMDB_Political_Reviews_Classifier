@@ -1,0 +1,73 @@
+{
+  "political_m": false,
+  "type": "Movie",
+  "name": "How to Train Your Dragon",
+  "url": "https://www.imdb.com/tt0892769/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_.jpg",
+  "description": "A hapless young Viking who aspires to hunt dragons becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed.",
+  "review": {
+    "author": "zeletto",
+    "dateCreated": "2010-11-03",
+    "inLanguage": "English",
+    "heading": "A heartfelt movie with a beautiful message",
+    "reviewBody": "There are a lot of excellent reviews out there, I will just discuss a single point. What got to me the most in this movie is the message I got out of it, I got it from a single line uttered by the hero and it just burned in my memory, it&apos;s about how when we look deep in the eyes of our enemies -the ones we fear the most- we will see that they are afraid of us just as we are afraid of them, we might realize their humanity and that they are not what we thought, monsters.\n\nThis is definitely one of the best 2 animation movies this year, with Toy Story 3 being the other one, tough job for the academy awards this year, and hope this is the case every year.\n\nIt&apos;s nice to see beautiful animation movies challenging Pixar&apos;s, it definitely benefits the viewer the most. How to train your dragon - Highly Recommended.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 10
+    }
+  },
+  "rating": {
+    "ratingCount": 804267,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 8.1
+  },
+  "contentRating": "0",
+  "genre": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "datePublished": "2010-03-26",
+  "keywords": "dragon,viking,father son relationship,village,dreamworks",
+  "duration": "PT1H38M",
+  "actor": [
+    {
+      "name": "Jay Baruchel",
+      "url": "https://www.imdb.com/name/nm0059431/"
+    },
+    {
+      "name": "Gerard Butler",
+      "url": "https://www.imdb.com/name/nm0124930/"
+    },
+    {
+      "name": "Christopher Mintz-Plasse",
+      "url": "https://www.imdb.com/name/nm2395586/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Dean DeBlois",
+      "url": "https://www.imdb.com/name/nm0213450/"
+    },
+    {
+      "name": "Chris Sanders",
+      "url": "https://www.imdb.com/name/nm0761498/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "William Davies",
+      "url": "https://www.imdb.com/name/nm0204030/"
+    },
+    {
+      "name": "Dean DeBlois",
+      "url": "https://www.imdb.com/name/nm0213450/"
+    },
+    {
+      "name": "Chris Sanders",
+      "url": "https://www.imdb.com/name/nm0761498/"
+    }
+  ]
+}

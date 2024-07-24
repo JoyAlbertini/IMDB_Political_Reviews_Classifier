@@ -1,0 +1,60 @@
+{
+  "political_m": true,
+  "type": "Movie",
+  "name": "Billy Elliot",
+  "url": "https://www.imdb.com/tt0249462/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGY3NWYwNzctNWU5Yi00ZjljLTgyNDgtZjNhZjRlNjc0ZTU1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": null,
+  "review": {
+    "author": "Geofbob",
+    "dateCreated": "2005-12-22",
+    "inLanguage": "English",
+    "heading": "Sheer magic",
+    "reviewBody": "Billy Elliott is a moving, uplifting, and often exuberant, drama about motherless young Billy (Jamie Bell) fulfilling his dream of becoming a ballet dancer, in the process overcoming the objections and prejudices of his father and brother (Gary Lewis and Jamie Draven).\n\nIt is also a piece of magic realism, with political overtones. By setting their near fairy tale in the context of a close-knit mining community, and more specifically against the backdrop of the 1984/5 miners&apos; strike - a defining moment of modern British economic and social history - writer Lee Hall and director Stephen Daldry are able to refer to gender and class issues, without turning their work into a political tract, and without losing focus on the central human drama.\n\nThe film is realised near flawlessly. Bell achieves a convincing blend of adolescent bewilderment and defiance; if his dancing is not quite as good as we might expect, the storyline explains this away by saying that at this early stage his attitude and drive are more important than his technique. The dancing set pieces, clearly inspired more by Fred Astaire and Gene Kelly than by Nijinksky, are performed with gusto, mainly to pop songs by T-Rex.\n\nLewis and Draven put gritty realism and passion into their roles of a father and son committed to their community and to the miners&apos; cause. They make us feel their despair as they realise that this cause is lost; but also their endurance as they come to terms both with Billie&apos;s aspirations and their own uncertain futures - within a few years most UK coalmines would be closed. (The colliery in Easington, the real-life location of the film, closed in 1994.). The scenes of violence between strikers and police are presented uncompromisingly and authentically, but with the occasional touch of humour.\n\nJulie Walters provides an outstanding performance as Mrs Wilkinson, the dancing teacher who recognises and fosters Billie&apos;s talent; and helps him resist his own and his family&apos;s inhibitions. She is perfect as the chain-smoking, straight-talking mentor, who has her own personal disappointments and hurts, which she hopes Billie&apos;s success will help heal. To we outsiders watching the movie, Mrs Wilkinson appears as an integral part of the local community; but it is made clear that in the mid-80s, as far as Billie&apos;s family and friends are concerned, she is a middle class outsider, almost as alien as another species.\n\nOne issue which the film tackles head-on is traditional heterosexual male abhorrence of homosexuality. This attitude clearly underlies the shock of Billie&apos;s father and brother when they discover his interest in ballet. They would be even more horrified if they realised that his best friend was discovering gay tendencies in himself. It is typical of the sensitive direction that without labouring the point the film indicates by its close that attitudes towards gays changed radically during the 1980s and 90s along with the industrial landscape.",
+    "reviewRating": {
+      "worstRating": 1,
+      "bestRating": 10,
+      "ratingValue": 9
+    }
+  },
+  "rating": {
+    "ratingCount": 143936,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.7
+  },
+  "contentRating": "10",
+  "genre": [
+    "Drama",
+    "Music"
+  ],
+  "datePublished": "2000-09-29",
+  "keywords": "ballet,miner,male dancer,ballet dancing,gay friend",
+  "duration": "PT1H50M",
+  "actor": [
+    {
+      "name": "Jamie Bell",
+      "url": "https://www.imdb.com/name/nm0068260/"
+    },
+    {
+      "name": "Julie Walters",
+      "url": "https://www.imdb.com/name/nm0910278/"
+    },
+    {
+      "name": "Jean Heywood",
+      "url": "https://www.imdb.com/name/nm0382402/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Stephen Daldry",
+      "url": "https://www.imdb.com/name/nm0197636/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Lee Hall",
+      "url": "https://www.imdb.com/name/nm0355822/"
+    }
+  ]
+}

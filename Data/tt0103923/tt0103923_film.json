@@ -1,0 +1,69 @@
+{
+  "political_m": false,
+  "type": "Movie",
+  "name": "Captain America",
+  "url": "https://www.imdb.com/tt0103923/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmRmYzA4NDItZmI3NS00NWIyLWIzZWEtNGIzZjZlYmY5MzE2XkEyXkFqcGdeQXVyMTEyNzgwMDUw._V1_.jpg",
+  "description": "Frozen in the ice for decades, Captain America is freed to battle against archcriminal The Red Skull.",
+  "review": {
+    "author": "comic207",
+    "dateCreated": "2004-04-17",
+    "inLanguage": "English",
+    "heading": "I&apos;m just glad he wasn&apos;t a surfer dude or a crusading D.A.",
+    "reviewBody": "Like many Cap fans, I eagerly waited for the Captain America film and was disappointed when it went direct-to-video. When I finally saw the video, I was disappointed with the story. I did like the physical acting with Cap in costume, and I think that was the one true thing about Captain America. Rather than rant on about what was wrong, let me tell you Hollywood scripters how to do it right;\n\n1. The first movie must spend a great deal (if not the whole movie) in WWII, where his legend will start. No urban legend in the 21st Century.\n\n2. Steve Rogers is a NEW YORKER! He kept his optimism despite losing both parents to disease (alcoholism, pneumonia) during the Great Depression. Even in the new millennium, he loves listening to big band and 40s music and anything that sparks such nostalgia. He&apos;s still a BROOKLYN Dodgers fan.\n\n3. What the hell was that with the plastic ears?! (Sorry, had to get that one out.)\n\n4. Get that shield back...it was way better than not having one in the serial (a gun?) or a clear one in the TV movie.\n\n5. Don&apos;t forget that the costume has a star on the front *and* back.\n\n6. If you make the Red Skull (most likely villain) Italian again, so help me...\n\n7. I wouldn&apos;t mind seeing Bucky, but you can do like the Ultimates storyline and have him non-costumed in the war if it&apos;ll help. But please don&apos;t make Cap&apos;s costume like the one in the Ultimates (either version).\n\n8. Don&apos;t try to combine love interests (Bernie was the girlfriend during the 1980s, Sharon was the girl in the 60s and 70s, but it was wrong to make them mother and daughter.).\n\n9. I gotta say it again...don&apos;t make him an urban legend like Batman! Captain America was created to be a symbol and INSPIRE American public and forces as a response against the Red Skull. He can&apos;t do that if he&apos;s skulking the shadows.\n\nThanks and good luck.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 15177,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 3.2
+  },
+  "contentRating": "PG-13",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "datePublished": "1991-07-26",
+  "keywords": "president of the united states,conspiracy,femme fatale,nazi,fish out of water",
+  "duration": "PT1H37M",
+  "actor": [
+    {
+      "name": "Matt Salinger",
+      "url": "https://www.imdb.com/name/nm0758413/"
+    },
+    {
+      "name": "Ronny Cox",
+      "url": "https://www.imdb.com/name/nm0001074/"
+    },
+    {
+      "name": "Ned Beatty",
+      "url": "https://www.imdb.com/name/nm0000885/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Albert Pyun",
+      "url": "https://www.imdb.com/name/nm0089502/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Joe Simon",
+      "url": "https://www.imdb.com/name/nm0800209/"
+    },
+    {
+      "name": "Jack Kirby",
+      "url": "https://www.imdb.com/name/nm0456158/"
+    },
+    {
+      "name": "Stephen Tolkin",
+      "url": "https://www.imdb.com/name/nm0006809/"
+    }
+  ]
+}

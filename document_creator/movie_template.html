@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+<title>{{movie_title}} Information Display</title>
+<style>
+    body {
+        font-family: 'Roboto', sans-serif;
+    }
+     .movie-container {
+        display: flex;
+        align-items: flex-start;
+        background-color: rgba(255, 255, 255, 0.76);
+        overflow: hidden;
+    }
+    .movie-poster { padding: 10px; flex-grow: 0; }
+    .movie-poster img { width: auto; height: 270px; }
+    .movie-data { padding: 10px; width: 80%; flex-grow: 1; }
+    .movie-table { width: 100%; border-collapse: collapse; margin-bottom: 20px; }
+    .movie-table th:first-child, .movie-table td:first-child {
+        border-left: none;
+    }
+    .movie-table th:last-child, .movie-table td:last-child {
+        border-right: none;
+    }
+    .movie-table th, .movie-table td {
+        border: 1px solid #e3e3e3;
+        padding: 8px;
+        font-size: 22px;
+    }
+    .movie-table th {
+        background-color: #ffffff;
+        text-align: left !important;
+        font-size: 22px;
+    }
+    .movie-table td {
+        text-align: left !important;
+    }
+    .movie-table tr:last-child td {
+        border-bottom: none;
+    }
+   .movie-table tr:first-child th, .movie-table tr:first-child td {
+        border-top: none;
+    }
+</style>
+</head>
+<body>
+<div class="movie-container">
+    <div class="movie-poster">
+        <img src="{{poster_url}}" alt="Movie Poster">
+    </div>
+    <div class="movie-data">
+        <table class="movie-table">
+            <thead>
+                <tr>
+                    <th>Movie Title</th>
+                    <th>IMDb Link</th>
+                    <th>Release Date</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>{{movie_title}}</td>
+                    <td><a href="{{imdb_link}}">Visit IMDb</a></td>
+                    <td>{{release_date}}</td>
+                </tr>
+                <tr>
+                    <th>Rating</th>
+                    <th>Votes</th>
+                    <th>Genres</th>
+                </tr>
+                <tr>
+                    <td>{{rating}}</td>
+                    <td>{{votes}}</td>
+                    <td>{{genres}}</td>
+                </tr>
+                <tr>
+                    <th>Duration</th>
+                    <th>Tags</th>
+                    <th>Additional Info</th>
+                </tr>
+                <tr>
+                    <td>{{duration}}</td>
+                    <td>{{tags}}</td>
+                    <td>More data here</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+</body>
+</html>
+
+<!--
+ .movie-container {
+        display: flex;
+        align-items: flex-start;
+        background-color: rgba(255, 255, 255, 0.76);
+        border-radius: 15px;
+        box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+        overflow: hidden;
+    }
+
+-->

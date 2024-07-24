@@ -1,0 +1,69 @@
+{
+  "political_m": false,
+  "type": "Movie",
+  "name": "Spider-Man",
+  "url": "https://www.imdb.com/tt0145487/",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDEyN2NhMjgtMjdhNi00MmNlLWE5YTgtZGE4MzNjMTRlMGEwXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_.jpg",
+  "description": "After being bitten by a genetically-modified spider, a shy teenager gains spider-like abilities that he uses to fight injustice as a masked superhero and face a vengeful enemy.",
+  "review": {
+    "author": "0U",
+    "dateCreated": "2020-02-24",
+    "inLanguage": "English",
+    "heading": "I enjoyed this movie",
+    "reviewBody": "That movie starts the string of the spider man that I&apos;m grown with and raise the bar really high for the next super hero movie which comes soon after it. This part is really good synthesized. I can tell much more good thing abouy the movie but you can make them on your own.",
+    "reviewRating": {
+      "worstRating": null,
+      "bestRating": null,
+      "ratingValue": null
+    }
+  },
+  "rating": {
+    "ratingCount": 884265,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.4
+  },
+  "contentRating": "10",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "datePublished": "2002-05-03",
+  "keywords": "superhero,based on comic,peter parker character,ben parker character,spider man character",
+  "duration": "PT2H1M",
+  "actor": [
+    {
+      "name": "Tobey Maguire",
+      "url": "https://www.imdb.com/name/nm0001497/"
+    },
+    {
+      "name": "Kirsten Dunst",
+      "url": "https://www.imdb.com/name/nm0000379/"
+    },
+    {
+      "name": "Willem Dafoe",
+      "url": "https://www.imdb.com/name/nm0000353/"
+    }
+  ],
+  "director": [
+    {
+      "name": "Sam Raimi",
+      "url": "https://www.imdb.com/name/nm0000600/"
+    }
+  ],
+  "creator": [
+    {
+      "name": "Stan Lee",
+      "url": "https://www.imdb.com/name/nm0498278/"
+    },
+    {
+      "name": "Steve Ditko",
+      "url": "https://www.imdb.com/name/nm0228492/"
+    },
+    {
+      "name": "David Koepp",
+      "url": "https://www.imdb.com/name/nm0462895/"
+    }
+  ]
+}
