@@ -10,9 +10,17 @@ Please be advised that this project may contain material that could be considere
 
 ## Overview 
 
-![Overview Video](https://www.youtube.com/watch?v=BqZAfo1lhQ8&t=24s&ab_channel=MSstudioHD)
+The application is designed to **scrape**, **classify**, and analyze IMDb film reviews to determine the influence of political bias on film ratings. It uses advanced natural language processing (**NLP**) techniques to categorize reviews into **neutral**, **left-leaning**, or **right-leaning** based on their content. This classification helps in recalculating the film ratings to provide a more unbiased view, reflecting the film's content rather than political sentiment. 
 
-## IMDB
+The main goal of this tool is to provide film enthusiasts, critics, and researchers with a clearer, more objective perspective on film ratings by filtering out potential biases introduced by politically charged reviews. This could help users make better-informed decisions about which films to watch, based on ratings that truly reflect viewers' opinions about the film's content rather than its political implications.
+
+![Overiew gif](gitData/IMDb%20Classifier2.gif)
+[Overview Video](https://www.youtube.com/watch?v=BqZAfo1lhQ8&t=24s&ab_channel=MSstudioHD)
+
+## Full Document
+[Application PDF](gitData/Joy%20Albertini_TA_project.pdf)
+
+## IMDB Link
 For the Jupiter Notenbook and Application site to correct link to give is 
 
 ![IMBd link](gitData/imdb_linlk.png "IMDB Link")
@@ -52,6 +60,10 @@ In this project there are several jupiter notebook
 - `rating_analysis.ipynb` : create the distributions of ratings. 
 - `political_review_display` : DONT run it, is for creating html pages, can make lag the editor if runned. 
 
+## Technologies 
 
-
- 
+- **SpaCy:** Handles text analysis and classification of reviews by political orientation.
+- **Python Dash:** Builds the interactive user interface for displaying results and settings.
+- **Plotly:** Creates visual representations of data, such as rating distributions.
+- **HTML/CSS:** Styles the web interface, enhancing visual appeal and usability.
+- **Selenium:** Automates the scraping of IMDb reviews to gather necessary data.
