@@ -53,9 +53,6 @@ This will launch a webpage at [http://127.0.0.1:8080/](http://127.0.0.1:8080/).
 
 Scraping and generating the report of an IMDB page can take a while, for IMDb pages with a lot of reviews.
 
-### Support
-If you encounter any issues running the application, please contact me at my USI email.
-
 ### Notebooks 
 In this project there are several jupiter notebook 
 - `political_bias_train.ipynb` : train the model and generated the data 
