@@ -41,7 +41,11 @@ pip install -r requirements.txt
 This project, which utilizes `selenium` for scraping data as demonstrated in `IMDB_Extended.py`, requires the **Chrome web browser** to be installed on your machine. Additionally, it makes use of the `ChromeWebDriver` extension for Chrome to facilitate data scraping.
 The code is designed to automatically install `ChromeWebDriver` on your machine. If you prefer not to test the scraping capabilities of the application, you can simply use the already scraped data. By not adding a new link, `ChromeWebDriver` will not be installed.
 
-For this project, we have also developed a user interface that allows you to run the project outside of Jupyter Notebooks. To start, execute the following command:
+### Train the model 
+To create and train the model, simply run `political_bias_train.ipynb`` to initiate the training and model creation process.
+
+### Run the application 
+For this project, I have also developed a user interface that allows you to run the project outside of Jupyter Notebooks. To start, execute the following command:
 ```bash
 python Interface.py
 ```
