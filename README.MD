@@ -1,5 +1,4 @@
 ##  IMDB Political Review Classifier 
-Joy Albertini
 
 ### Disclaimers
 #### Disclaimer: Non-Political Affiliation
@@ -53,7 +52,7 @@ Scraping and generating the report of an IMDB page can take a while, for IMDb pa
 ### Support
 If you encounter any issues running the application, please contact me at my USI email.
 
-### Analysis 
+### Notebooks 
 In this project there are several jupiter notebook 
 - `political_bias_train.ipynb` : train the model and generated the data 
 - `ploitical_review.ipynb` : is a notebook that you can put the link of a film and will analyze it, can give some problem in pycharm due to the html code, if it does unstrust then trust it an re run it, or open it with visual studio code it works great there
@@ -61,9 +60,12 @@ In this project there are several jupiter notebook
 - `political_review_display` : DONT run it, is for creating html pages, can make lag the editor if runned. 
 
 ## Technologies 
-
 - **SpaCy:** Handles text analysis and classification of reviews by political orientation.
 - **Python Dash:** Builds the interactive user interface for displaying results and settings.
 - **Plotly:** Creates visual representations of data, such as rating distributions.
 - **HTML/CSS:** Styles the web interface, enhancing visual appeal and usability.
 - **Selenium:** Automates the scraping of IMDb reviews to gather necessary data.
+
+## Analysis
+
+In the `Data` folder, you will find several films already scraped, along with generated HTML pages for the political analysis.
