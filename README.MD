@@ -1,4 +1,4 @@
-###  IMDB Political Review Classifier 
+##  IMDB Political Review Classifier 
 Joy Albertini
 
 ### Disclaimers
@@ -8,12 +8,16 @@ The content and context of this project do **not reflect any political affiliati
 #### Content Sensitivity Disclaimer
 Please be advised that this project may contain material that could be considered offensive to some individuals. This includes content derived from user contributions on IMDb. Viewer discretion is advised. The content is presented for educational, informational, or research purposes only and does not intend to harm, offend, or disparage **any group** or **individual**.
 
-### IMDB
+## Overview 
+
+![Overview Video](https://www.youtube.com/watch?v=BqZAfo1lhQ8&t=24s&ab_channel=MSstudioHD)
+
+## IMDB
 For the Jupiter Notenbook and Application site to correct link to give is 
 
-![IMBd link](assets/imdb_linlk.png "IMDB Link")
+![IMBd link](gitData/imdb_linlk.png "IMDB Link")
 
-### Run the project
+## Installation 
 To create a new environment
 ```bash 
 python -m venv .venv 
